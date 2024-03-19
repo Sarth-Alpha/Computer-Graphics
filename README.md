@@ -21,7 +21,7 @@ Codes for implementing features of computer graphics such as drawing shapes, tra
         libxext-dev x11proto-xext-dev libfreetype6 libaa1 libaa1-dev \
         libslang2-dev libasound2 libasound2-dev
       
-# STEP 3: Download libgraph. Now extract the downloaded libgraph-1.0.2.tar.gz file.
+### STEP 3: Download libgraph. Now extract the downloaded libgraph-1.0.2.tar.gz file.
 
 # STEP 4: Goto extracted folder and run following command
         cd libgraph-1.0.2
